@@ -1,0 +1,6 @@
+C:\DEVLOCAL\ExpDataDSP\cCommon\bin\Debug\cCommon.dll
+C:\DEVLOCAL\ExpDataDSP\cCommon\bin\Debug\cCommon.pdb
+C:\DEVLOCAL\ExpDataDSP\cCommon\obj\Debug\cCommon.csproj.AssemblyReference.cache
+C:\DEVLOCAL\ExpDataDSP\cCommon\obj\Debug\cCommon.csproj.CoreCompileInputs.cache
+C:\DEVLOCAL\ExpDataDSP\cCommon\obj\Debug\cCommon.dll
+C:\DEVLOCAL\ExpDataDSP\cCommon\obj\Debug\cCommon.pdb
